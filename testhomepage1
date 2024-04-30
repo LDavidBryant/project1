@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,100' rel='stylesheet' type='text/css'>
+
+  </head>
+  <body>
+    <div class="header">
+      <div class="container">
+        <h1>Daytona</h1>
+        <p>For your Dev Environment</p>
+        <a class="btn" href="#">Learn More</a>
+      </div>
+    </div>
+
+    <div class="nav">
+      <div class="container">
+        <ul>
+          <li>Information</li>
+          <li>Daytona for Business</li>
+                    <li>Daytona for Individuals</li>
+          <li>Sponsors</li>
+          <li>About</li>
+          <li>Contact</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="main">
+      <div class="container">
+        <img src="https://pbs.twimg.com/profile_images/1764766523770494977/NwdtuoVp_400x400.jpg" height="196" width="196">
+        <h2>Daytona Support Reporting</h2>
+        
+        This report will share useful information about your Daytona Support interactions:
+
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Centered Large Table</title>
+<style>
+  table {
+    width: 80%; 
+    margin: 0 auto;  
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th>Issue Types</th>
+      <th>Ticket Volume</th>
+      <th>Feature Requests</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>25</td>
+      <td>12</td>
+      <td>6</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+
+
+
+        <p>Daytona is designed to provide the best possible developer experience, combining security and productivity.</p>
+        <p>But on the occasion you have a question, need information or need to report a bug, Daytona Support will be here for you.</p>
+        <p>Aside from providing full transparency on your issues, we'll keep you updated and in the loop.</p>
+      </div>
+    </div>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simple Bar Chart</title>
+<style>
+    .bar-chart {
+        width: 300px;
+        border: 1px solid #ccc;
+        margin: 20px auto;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .bar {
+        background-color: steelblue;
+        margin-bottom: 5px;
+        height: 20px;
+    }
+
+    .label {
+        margin-bottom: 5px;
+    }
+</style>
+</head>
+<body>
+
+<div class="bar-chart">
+    <div class="bar" style="width: 80%;"></div>
+    <div class="label">Issue Types</div>
+    <div class="bar" style="width: 60%;"></div>
+    <div class="label">Ticket Volume</div>
+    <div class="bar" style="width: 40%;"></div>
+    <div class="label">CSAT</div>
+</div>
+
+</body>
+</html>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h2>Stay Connected with Daytona</h2>
+        <p>Receive weekly insights from our team via our social media.</p>
+        <a class="btn" href="#">Join</a>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="container">
+        <p>&copy; Daytona Platforms & Daytona Support</p>
+      </div>
+     
+    </div>
+  </body>
+</html>
